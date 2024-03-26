@@ -27,7 +27,7 @@ const Form = () => {
     };
 
     return (
-        <div className="lg:flex lg:h-screen lg:w:screen" style={{ backgroundColor: 'rgb(25,25,25)', fontFamily: 'Tauri, sans-serif', '@media (min-width: 1024px)': { backgroundColor: 'white' , } }}>
+        <div className="lg:flex lg:h-screen lg:bg-black " style={{  fontFamily: 'Tauri, sans-serif'}}>
             {/* Left half */}
             <div className="hidden lg:flex lg:bg-black lg:text-white lg:py-8 lg:justify-center lg:items-center lg:overflow-hidden lg:scroll-none" style={{ width: '45%', backgroundColor: 'rgb(25,25,25)' , '@media (min-width: 1024px)': { display: 'none' } }}>
                 <div className="max-w-md">
@@ -38,9 +38,9 @@ const Form = () => {
             </div>
 
             {/* Right half */}
-            <div className="w- bg-white  lg:rounded-l-2xl" style={{ width: '55%', color: 'rgb(25,25,25)', '@media (min-width: 1024px)': {width: '1024px' }}}>
+            <div className="w-full  bg-white  lg:rounded-l-2xl mx-auto lg:mx-0 " style={{ width: '55%', color: 'rgb(25,25,25)', '@media (min-width: 1024px)': {margin: 'auto' }}}>
                 <div className="w-full">
-                    <div className="m-4  flex justify-between items-center">
+                    <div className="m-4  top-0 flex justify-between items-center">
                         <button className="flex flex-row items-center my-2 w-24 h-1 gap-2 font-thin text-xs text-gray-600 hover:text-gray-400"><Globe /> English
                             <svg
                                 className={`w-20 h-4`}
