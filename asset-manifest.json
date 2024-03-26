@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/signup_page/static/css/main.0570b394.css",
+    "main.js": "/signup_page/static/js/main.c61a5cde.js",
+    "static/js/453.f5e9be91.chunk.js": "/signup_page/static/js/453.f5e9be91.chunk.js",
+    "static/media/signupImg.webp": "/signup_page/static/media/signupImg.0fd727cbf2d9f6243645.webp",
+    "static/media/globe.svg": "/signup_page/static/media/globe.e89c9267c43bb2f1b1a5a2524a01e247.svg",
+    "static/media/invisibleeye.svg": "/signup_page/static/media/invisibleeye.b68e49d28ddc5fdfbe585512178f9264.svg",
+    "index.html": "/signup_page/index.html",
+    "static/media/visibleeye.svg": "/signup_page/static/media/visibleeye.6ff9168911e9f895c9fb0a9988cb6c26.svg",
+    "static/media/logo.svg": "/signup_page/static/media/logo.1b52c4a74ffb987fe7f80174302df237.svg",
+    "main.0570b394.css.map": "/signup_page/static/css/main.0570b394.css.map",
+    "main.c61a5cde.js.map": "/signup_page/static/js/main.c61a5cde.js.map",
+    "453.f5e9be91.chunk.js.map": "/signup_page/static/js/453.f5e9be91.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0570b394.css",
+    "static/js/main.c61a5cde.js"
+  ]
+}
