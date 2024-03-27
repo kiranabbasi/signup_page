@@ -1,6 +1,6 @@
-// App.js (or any other file where you're using the Form component)
+// App.js 
 import React from 'react';
-import Form from './components/Form'; // Make sure to provide the correct path to the Form component
+import Form from './components/Form'; 
 
 const App = () => {
   return (

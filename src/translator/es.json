@@ -1,0 +1,38 @@
+{
+    "signup": {
+        "title1": "Regístrate y ",
+        "title2": "comienza",
+        "description": "Cautiva a tu audiencia y consigue mejor información con formularios conversacionales.",
+        "emailPlaceholder": "Correo electrónico",
+        "passwordPlaceholder": "Contraseña",
+        "terms1": "Acepto los",
+        "terms2": "Términos de Servicio de Typeform,",
+        "terms3": "Política de Privacidad",
+        "terms4": "y el",
+        "terms5": "Acuerdo de Procesamiento de Datos.",
+        "createAccount": "Crear mi cuenta gratuita",
+        "confirm": "¿Ya tienes una cuenta?"
+    },
+    "errors": {
+        "emailRequired": "Este campo no puede dejarse en blanco",
+        "invalidEmail": "Ingrese una dirección de correo electrónico válida",
+        "passwordRequired": "Este campo no puede dejarse en blanco",
+        "passwordLength": "Utilice 8 o más caracteres con una combinación de letras, números y símbolos",
+        "agreeTerms": "Por favor, acepta los términos y condiciones para completar el registro"
+    },
+    "buttons": {
+        "logIn": "Iniciar sesión"
+    },
+    "footer": {
+        "copyright": "© Typeform"
+    },
+    "privacySection": {
+        "seeOptions": "Ver opciones",
+        "getUsefulTips": "Obtén consejos útiles, inspiración y ofertas a través de la comunicación electrónica.",
+        "tailorTypeform": "Adapta Typeform a mis necesidades según mi actividad.",
+        "enrichData": "Enriquece mis datos con terceros seleccionados para obtener contenido más relevante.",
+        "yes": "Sí",
+        "no": "No",
+        "updatePreferences": "Puedes actualizar tus preferencias en tu perfil en cualquier momento."
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "signup": {
+        "title1": "Sign up and ",
+        "title2": "come on in",
+        "description": "Get better data with conversational forms, surveys, quizzes & more.",
+        "emailPlaceholder": "Email",
+        "passwordPlaceholder": "Password",
+        "terms1": "I agree to Typeform’s",
+        "terms2": "Terms of Service,",
+        "terms3": "Privacy Policy",
+        "terms4": "and",
+        "terms5": "Data Processing Agreement.", 
+        "confirm": "Already have an account?",       
+        "createAccount": "Create my free account"
+        
+    },
+    "errors": {
+        "emailRequired": "This field cannot be left blank",
+        "invalidEmail": "Enter a valid email address",
+        "passwordRequired": "This field cannot be left blank",
+        "passwordLength": "Use 8 or more characters with a mix of letters, numbers and symbols",
+        "agreeTerms": "Please accept the terms and conditions to finish the signup"
+    },
+    "buttons": {
+        "logIn": "Log in"
+    },
+    "footer": {
+        "copyright": "© Typeform"
+    },
+    "privacySection": {
+        "seeOptions": "See options",
+        "getUsefulTips": "Get useful tips, inspiration, and offers via e-communication.",
+        "tailorTypeform": "Tailor Typeform to my needs based on my activity.",
+        "enrichData": "Enrich my data with select third parties for more relevant content.",
+        "yes": "Yes",
+        "no": "No",
+        "updatePreferences": "You can update your preferences in your Profile at any time."
+    }
+}
